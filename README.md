@@ -15,7 +15,7 @@ mempermudah masyarakat dalam menyampaikan keluhan atau pengaduan kepada Keluraha
    - Memberikan respon dan menyelesaikan pengaduan.  
 
 ## Teknologi yang Digunakan  
-- **Frontend**: HTML, CSS, JavaScript, bootstrap 
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 
 - **Backend**: PHP  
 - **Database**: MySQL  
 
